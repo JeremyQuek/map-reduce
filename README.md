@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-A distributed data processing system inspired by [Google's original MapReduce paper](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf), built as part of CS 162. 
+A distributed data processing system inspired by [Google's original MapReduce paper](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf), extended from a CS 162 project
 
 Obviously, this isn't the cleanest C I've ever written, but I enjoyed implementing this andd learned a ton about distributed systems, RPC protocols, task scheduling, and why fault tolerance is genuinely hard to get right.
 <br/><br/>
